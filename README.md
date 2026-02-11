@@ -53,5 +53,3 @@ Create Project Report and Presentation
 Create project report
 
 Build presentation deck using Gamma AI
-
-Follow along with the YouTube video for full walkthrough. 👨‍💼
